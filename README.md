@@ -1,8 +1,6 @@
 # Hello
 
-This a fun repo to make a silly website out of to introduce yourself.
-
-My name is Tiffany. I like to search for funny gifs and memes in my spare time. Here is one of my new favorites:
+This is a test repo for creating testing out Jekyll templates for question 4.0.1.
 
 ![](https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif)
 
