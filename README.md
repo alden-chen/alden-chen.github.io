@@ -2,6 +2,8 @@
 
 This is a test repo for creating testing out Jekyll templates for question 4.0.1.
 
-![](https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif)
+![](https://pbs.twimg.com/media/DHYoqGXXgAME9R1.jpg:large)
 
-*[source](https://giphy.com/gifs/jerseydemic-xTiN0CNHgoRf1Ha7CM)*
+*[source](https://pbs.twimg.com/media/DHYoqGXXgAME9R1.jpg:large)*
+
+
